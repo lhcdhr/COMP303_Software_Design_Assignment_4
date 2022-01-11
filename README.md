@@ -7,3 +7,5 @@ The 4th assignment of COMP303 Software Design
 ## Design
 Prototype - creating episodesof a particular TV Show  
 ## Diagram 
+### Sequence Diagram
+![alt text](https://github.com/lhcdhr/Movie-Library-V4-Software-Design/blob/main/sqsdgm.sequence.png)
